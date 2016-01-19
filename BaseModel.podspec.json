@@ -1,18 +1,19 @@
 {
   "name": "BaseModel",
-  "version": "2.6.3",
+  "version": "2.6.4",
   "summary": "BaseModel provides a base class for building model objects for your iOS or Mac OS projects.",
   "homepage": "https://github.com/nicklockwood/BaseModel",
   "license": "zlib",
   "authors": "Nick Lockwood",
   "source": {
     "git": "https://github.com/nicklockwood/BaseModel.git",
-    "tag": "2.6.3"
+    "tag": "2.6.4"
   },
   "requires_arc": true,
   "platforms": {
     "ios": "4.3",
     "osx": "10.6"
+    "tvos": "9.0"
   },
   "source_files": "BaseModel"
 }
